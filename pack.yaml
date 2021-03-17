@@ -1,0 +1,13 @@
+---
+ref: twitter
+name : twitter
+description : Monitor and send Tweets
+keywords:
+  - twitter
+  - social media
+  - social networks
+version: 1.0.0
+python_versions:
+  - "3"
+author : StackStorm, Inc.
+email : info@stackstorm.com
