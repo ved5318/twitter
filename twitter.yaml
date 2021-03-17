@@ -1,0 +1,12 @@
+---
+consumer_key: "EfaasWLXwhuQR1sufi8GmkPBg"
+consumer_secret: "lFXdpFvb5vWlbbyN1RRIKV4XSFvfipCFOhkZy2QfCZyBnm6pYb"
+
+access_token: "786601883691515904-wX1qTRRzrxQdDIvX4pRc3sNEFc7AjpE"
+access_token_secret: "ldh3Wl6VGOhN3vUVgjz4xBOsejvp2yH1RnkPNGRGR5WJd"
+
+query:
+  - "StackStorm"
+  - "@Stack_Storm"
+count: 30
+language: en
